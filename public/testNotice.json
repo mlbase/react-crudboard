@@ -1,0 +1,18 @@
+[
+    {
+        "id" : "1",
+        "title" : "test중 1",
+        "writer" : "테스트",
+        "content" : "테스트중입니다1",
+        "password" : "1234",
+        "createDate" : "2022-01-01"
+    },
+
+    {
+        "id" : "2",
+        "title" : "test중 2",
+        "writer" : "테스트",
+        "password": "2345",
+        "createDate" : "2022-01-01"
+     }
+]
